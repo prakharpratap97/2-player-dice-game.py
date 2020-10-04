@@ -1,2 +1,2 @@
 # pps
-# roll a dice
+<roll a dice>
